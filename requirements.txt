@@ -1,0 +1,11 @@
+confuse == 2.0.1
+folium == 0.14.0
+geopandas == 0.13.2
+mapclassify == 2.5.0
+matplotlib == 3.7.1
+plotly == 5.14.1
+rioxarray == 0.14.1
+sentinelhub == 3.9.1
+shapely == 2.0.1
+streamlit-folium == 0.12.0
+streamlit == 1.21.0

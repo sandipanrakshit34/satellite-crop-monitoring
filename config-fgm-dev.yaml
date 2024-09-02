@@ -1,0 +1,22 @@
+appName: Crop Health
+APP:
+  Name: Crop Health
+  Logo: app_logo.png
+  Location: Sudan
+Client:
+  Name: FGM International
+  Logo: fgm.png
+  Location: Sudan
+  DataPath: ./clients/FGM.geojson
+Us:
+  Name: AmunData
+  Logo: amundata_logo.png
+  Location: Sudan
+Sentinel:
+  InstanceId: 5f81bca4-38cf-4d05-967a-c7978a35f218     
+  ClientId: 8db06dd5-31fe-4043-bc1e-a78952326f7a    
+  ClientSecret: 8967ItV48X6aBIMhQYMWWtoohLzKxXRumlkS6ads
+
+StartDate : 2020-06-01
+appSemanticVersion: 0.9.3
+ClientName: FGM
