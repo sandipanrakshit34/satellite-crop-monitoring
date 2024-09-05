@@ -1,5 +1,7 @@
 # satellite-crop-monitoring
 ---
+<center> <img src = "https://github.com/sandipanrakshit34/satellite-crop-monitoring/blob/main/banner.png" width = 80%>
+  
 title: Agricultural Remote Sensing Monitoring
 emoji: 🌱
 colorFrom: green
@@ -33,13 +35,12 @@ The dashboard is built with Streamlit and uses satellite imagery from [source].
 To run locally:
 
 ```
-git clone https://github.com/yourname/crop-monitoring
+git clone https://github.com/sandipan34/crop-monitoring
 cd crop-monitoring
 pip install -r requirements.txt 
 streamlit run app.py
 ```
 
-The app will now be running at http://localhost:8501.
 
 ## Usage
 
