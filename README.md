@@ -1,6 +1,6 @@
 # satellite-crop-monitoring
 ---
-<center> <img src = "https://github.com/sandipanrakshit34/satellite-crop-monitoring/blob/main/banner.png" width = 80%>
+<center> <img src = "https://github.com/sandipanrakshit34/satellite-crop-monitoring/blob/main/banner.png" width = 100%>
   
 title: Agricultural Remote Sensing Monitoring
 emoji: 🌱
