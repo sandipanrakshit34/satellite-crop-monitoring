@@ -61,6 +61,11 @@ Potential features to add:
 - Integrate weather data
 - Field monitoring alerts
 
+
 ## Authors
 
-Your name and contact info 
+- [@sandipanrakshit34](https://github.com/sandipanrakshit34)
+
+##
+
+
