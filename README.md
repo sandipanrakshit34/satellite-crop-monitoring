@@ -62,7 +62,7 @@ Potential features to add:
 - Field monitoring alerts
 
 
-## Authors
+## Author
 
 - [@sandipanrakshit34](https://github.com/sandipanrakshit34)
 
