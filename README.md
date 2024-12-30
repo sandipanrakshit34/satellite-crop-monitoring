@@ -14,7 +14,7 @@ license: openrail
 ---
 
 ## Access
-Deployed **App** => http://localhost:8501/
+Deployed **App** => [http://localhost:8501/](http://localhost:8501/)
 
 # Agricultural Remote Sensing Monitoring
 
