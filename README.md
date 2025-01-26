@@ -13,9 +13,6 @@ pinned: false
 license: openrail
 ---
 
-## Access
-Deployed **App** => [http://localhost:8501/](http://localhost:8501/)
-
 # Agricultural Remote Sensing Monitoring
 
 This project provides a dashboard for monitoring crops via remote sensing data. It allows farmers to view vegetation metrics for their fields over time to track crop health and growth.
