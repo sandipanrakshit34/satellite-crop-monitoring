@@ -1,19 +1,7 @@
-# satellite-crop-monitoring
+# satellite-crop-monitoring System 
 ---
 <center> <img src = "https://github.com/sandipanrakshit34/satellite-crop-monitoring/blob/main/banner.png" width = 100%>
   
-title: Agricultural Remote Sensing Monitoring
-emoji: 🌱
-colorFrom: green
-colorTo: blue
-sdk: streamlit
-sdk_version: 1.21.0
-app_file: app.py
-pinned: false
-license: openrail
----
-
-# Agricultural Remote Sensing Monitoring
 
 This project provides a dashboard for monitoring crops via remote sensing data. It allows farmers to view vegetation metrics for their fields over time to track crop health and growth.
 
